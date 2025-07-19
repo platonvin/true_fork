@@ -4,8 +4,8 @@ obj
 client
 
 # compiled shaders
-shaders/*.spv
-shaders/compiled/*.spv
+# shaders/*.spv
+# shaders/compiled/*.spv
 
 *.txt
 *.md
